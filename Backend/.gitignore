@@ -36,3 +36,8 @@ build/
 
 # Miscellaneous
 *.env.local
+# Node modules
+node_modules/
+
+# Environment variables
+.env
