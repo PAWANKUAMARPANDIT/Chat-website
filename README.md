@@ -13,7 +13,6 @@ This is a real-time chat application built using Socket.io for real-time communi
 
 - **Frontend**: React.js, Tailwind CSS
 - **Backend**: Node.js, Express.js, Socket.io
-- **Database**: (if applicable, e.g., MongoDB, MySQL)
 - **Build Tool**: Vite
 
 ## Prerequisites
