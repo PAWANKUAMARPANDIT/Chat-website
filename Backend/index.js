@@ -16,9 +16,9 @@ const corsOptions = {
   credentials: true
 };
 
-app.use(cors(corsOptions)); // Apply CORS middleware
+app.use(cors(corsOptions)); 
 
-app.use(router); // Use your router
+app.use(router); 
 
 const io = socketio(server, {
   cors: {
